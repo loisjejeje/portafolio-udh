@@ -1,1 +1,3 @@
-Estudiar los fundamentos de Git y Gitbuh
+Estudiar los fundamentos de Git y Gitbhub
+practicr codigos
+Tener buenos resultados
